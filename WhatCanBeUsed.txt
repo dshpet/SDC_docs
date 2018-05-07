@@ -1,0 +1,8 @@
+Edge detection (line detection)
+https://docs.opencv.org/2.4/doc/tutorials/imgproc/imgtrans/canny_detector/canny_detector.html
+
+Hough line transform (even more lanes detection)
+https://docs.opencv.org/3.0-beta/doc/py_tutorials/py_imgproc/py_houghlines/py_houghlines.html
+
+Useful articles to be used
+https://github.com/Sentdex/pygta5/issues/11
