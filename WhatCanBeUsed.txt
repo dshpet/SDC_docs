@@ -6,3 +6,6 @@ https://docs.opencv.org/3.0-beta/doc/py_tutorials/py_imgproc/py_houghlines/py_ho
 
 Useful articles to be used
 https://github.com/Sentdex/pygta5/issues/11
+
+Gradient methods
+http://www.scholarpedia.org/article/Policy_gradient_methods
